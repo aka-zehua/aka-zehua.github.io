@@ -504,15 +504,15 @@ img {
 }
 
 .skills__html {
-  width: 90%;
+  width: 30%;
 }
 
 .skills__css {
-  width: 80%;
+  width: 30%;
 }
 
 .skills__js {
-  width: 80%;
+  width: 30%;
 }
 
 .skills__react {
@@ -523,8 +523,8 @@ img {
   width: 65%;
 }
 
-.skills__ts {
-  width: 60%;
+.skills__matlab {
+  width: 70%;
 }
 
 .skills__node {
@@ -536,15 +536,19 @@ img {
 }
 
 .skills__python {
-  width: 55%;
+  width: 90%;
 }
 
 .skills__git {
-  width: 90%;
+  width: 80%;
 }
 
 .skills__webpack {
   width: 85%;
+}
+
+.skills__cplusplus {
+  width: 70%;
 }
 
 .skills__figma {
